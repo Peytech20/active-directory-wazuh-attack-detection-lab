@@ -83,21 +83,9 @@ Wazuh agents installed on the Windows Server 2025 domain controller and Windows 
 
 ## Windows Server 2025 Domain Controller
 
+![Active Directory Users and Computers](screenshots/01-environment/active-directory-users.png)
+
 Windows Server 2025 provides Active Directory Domain Services for the lab environment.
-
-📸 **SCREENSHOT TO ADD HERE: Active Directory Users and Computers**
-
-Suggested filename:
-
-`active-directory-users.png`
-
-Future image location:
-
-`/screenshots/01-environment/active-directory-users.png`
-
-<!--
-![Active Directory](screenshots/01-environment/active-directory-users.png)
--->
 
 ## Windows 11 Domain Client
 
