@@ -12,6 +12,16 @@ Controlled security tests are performed from Kali Linux against systems and acco
 
 ---
 
+# ⚠️ Disclaimer
+
+All security testing documented in this repository was performed within a privately owned and isolated VMware homelab.
+
+All systems, accounts, credentials, and network resources used for testing were created specifically for cybersecurity education and experimentation.
+
+No third-party systems or accounts were targeted.
+
+---
+
 ## 🎯 Objectives
 
 - Build and configure an Active Directory environment
@@ -324,10 +334,3 @@ Future image location:
 
 ---
 
-# ⚠️ Disclaimer
-
-All security testing documented in this repository was performed within a privately owned and isolated VMware homelab.
-
-All systems, accounts, credentials, and network resources used for testing were created specifically for cybersecurity education and experimentation.
-
-No third-party systems or accounts were targeted.
