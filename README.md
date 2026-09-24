@@ -91,9 +91,7 @@ Windows Server 2025 provides Active Directory Domain Services for the lab enviro
 
 A Windows 11 workstation was joined to the Active Directory domain to simulate a normal enterprise endpoint.
 
-## Windows Server 2025 Domain Controller
-
-![Active Directory Users and Computers](screenshots/01-environment/active-directory-users.png)
+![Windows 11 Domain Client](screenshots/01-environment/windows11-domain-joined.png)
 
 Windows Server 2025 provides Active Directory Domain Services for the lab environment.
 
