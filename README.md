@@ -69,6 +69,13 @@ The environment contains:
 
 ## Network Architecture
 
+## Network Architecture
+
+![Active Directory and Wazuh Homelab Architecture](homelab-architecture.png)
+
+The lab uses an isolated virtual network hosted in VMware Workstation Pro. Kali Linux serves as the security testing system, Windows Server 2025 provides Active Directory Domain Services, Windows 11 operates as a domain-joined workstation, and Wazuh SIEM running on Ubuntu Server provides centralized security monitoring.
+
+Wazuh agents installed on the Windows Server 2025 domain controller and Windows 11 workstation forward security events to the Wazuh manager for analysis and detection.
 
 ---
 
