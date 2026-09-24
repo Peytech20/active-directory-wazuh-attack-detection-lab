@@ -138,19 +138,7 @@ Wazuh agents were installed on:
 
 ## Wazuh Agents
 
-📸 **ADD YOUR EXISTING WAZUH ACTIVE AGENTS SCREENSHOT HERE**
-
-Suggested filename:
-
-`wazuh-active-agents.png`
-
-Future image location:
-
-`/screenshots/02-wazuh/wazuh-active-agents.png`
-
-<!--
 ![Wazuh Active Agents](screenshots/02-wazuh/wazuh-active-agents.png)
--->
 
 This screenshot demonstrates that both Windows endpoints are actively communicating with the Wazuh infrastructure.
 
