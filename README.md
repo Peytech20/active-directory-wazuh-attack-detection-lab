@@ -59,19 +59,6 @@ The environment contains:
 
 ## Network Architecture
 
-📸 **DIAGRAM TO ADD HERE: Homelab network architecture**
-
-Suggested filename:
-
-`homelab-architecture.png`
-
-Future image location:
-
-`/diagrams/homelab-architecture.png`
-
-<!-- Replace this comment with:
-![Homelab Architecture](diagrams/homelab-architecture.png)
--->
 
 ---
 
