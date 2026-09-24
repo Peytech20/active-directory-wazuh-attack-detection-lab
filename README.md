@@ -48,19 +48,7 @@ The entire environment is hosted within VMware Workstation Pro and is used only 
 
 ## VMware Workstation Environment
 
-📸 **SCREENSHOT TO ADD HERE: VMware Workstation Pro showing the lab VMs**
-
-Suggested filename:
-
-`vmware-lab-overview.png`
-
-Future image location:
-
-`/screenshots/01-environment/vmware-lab-overview.png`
-
-<!-- Replace this comment with:
-![VMware Homelab](screenshots/01-environment/vmware-lab-overview.png)
--->
+![VMware Workstation Homelab](screenshots/01-environment/vmware-lab-overview.png)
 
 The environment contains:
 
