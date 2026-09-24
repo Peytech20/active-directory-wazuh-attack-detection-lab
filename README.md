@@ -79,7 +79,7 @@ Wazuh agents installed on the Windows Server 2025 domain controller and Windows 
 
 # 🖥️ Active Directory Environment
 
-## Windows 11 Domain Client
+## Windows Server 2025 Domain
 
 A Windows 11 workstation was joined to the Active Directory domain to simulate a normal enterprise endpoint.
 
